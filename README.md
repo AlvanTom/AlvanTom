@@ -1,4 +1,6 @@
-![yum](https://i.imgur.com/Lg3Pr0J.jpeg)
+![goldfish 1](https://github.com/user-attachments/assets/97153ece-79fa-4055-b592-2f191bc2e155)
+
+
 
 <!--
 **AlvanTom/AlvanTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
